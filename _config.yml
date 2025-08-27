@@ -1,0 +1,10 @@
+title: "D4MX — Cybersecurity Portfolio"
+description: "Portfolio di Damiano (d4m / d4mx): write-up, VDP, tool/script, YARA, articoli e contatti."
+author: "Damiano Daniele Como"
+email: "your.email@example.com"
+url: "https://d4mx.github.io"
+theme: minimal
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
