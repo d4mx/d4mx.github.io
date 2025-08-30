@@ -40,7 +40,7 @@ I’m passionate about **hands-on learning** and continuously improving my skill
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@d4mx)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-d4m.ee8.sh-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/d4m.ee8.sh)
 [![GitHub](https://img.shields.io/badge/GitHub-d4mx-181717?style=for-the-badge&logo=github)](https://github.com/d4mx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Damiano%20Como-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/damianocomo)
+[![LinkedIn]()
 
 ---
 
